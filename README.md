@@ -59,6 +59,9 @@ The project includes:
 
 ---
 
+🏁 Conclusion:
+This project demonstrates how unsupervised learning can be used to uncover meaningful customer segments and behavioral insights. The clusters provide valuable inputs for personalized marketing and strategic business decisions.
+
 ## ▶️ How to Run the Project
 
 1️⃣ Clone the repository  
